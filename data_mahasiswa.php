@@ -1,6 +1,7 @@
 <?php
 echo "<h1>Data Mahasiswa </h1>";
 echo "NIM : 22110060 <br>";
-echo "Nama Lengkap : Prasetiya Bima Nanda P.S";
-echo "Class : 22MIB";
+echo "Nama Lengkap : Prasetiya Bima Nanda P.S<br>";
+echo "Class : 22MIB<br>";
+echo "semester genap";
 ?>
