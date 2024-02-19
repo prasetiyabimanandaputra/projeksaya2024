@@ -1,4 +1,4 @@
 <?php
-echo "Helow word"
+echo "Belajar Edit kode di Ghithup";
   ?>
   
